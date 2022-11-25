@@ -1,7 +1,6 @@
  body{
-    background-color: beige;
-    font-size: 18px;
-    z-index:0
+    font-family: sans-serif;
+    margin: 1em 10%;
 }
 section{
     padding: 1em;
